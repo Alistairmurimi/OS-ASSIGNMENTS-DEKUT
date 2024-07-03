@@ -1,0 +1,5 @@
+sudo apt update -to update package list
+sudo apt upgrade - to upgrade all installed packages
+sudo apt install - to install a pakage
+sudo apt remove -remove package_name
+
