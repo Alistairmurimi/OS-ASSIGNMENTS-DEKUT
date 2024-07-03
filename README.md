@@ -1,2 +1,3 @@
 OPERATING SYSTEMS
-basic linux sudo commands
+list of  basic linux sudo commands
+
