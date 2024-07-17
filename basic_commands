@@ -1,0 +1,10 @@
+ls - lists files and directories in current directory
+cd - changes directory to specified one
+pwd - prints current working directory
+mkdir - create a new directory 
+rmdir - deletes empty directories
+rm -r deletes directories (non-empty)
+cp - copies files and directories
+mv - moves or renames files or direcctories
+echo - prints strings to terminal
+
